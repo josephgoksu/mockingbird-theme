@@ -1,7 +1,14 @@
-# Change Log
 
-All notable changes to the "mockingbird-theme" extension will be documented in this file.
+<a name="v0.0.1"></a>
+## v0.0.1
 
-## [0.0.1] - 2019-08-18
+> 2019-08-18
 
-- Initial release
+### Initialize
+
+* Initialize Theme
+
+### Removes
+
+* Removes unused files
+
