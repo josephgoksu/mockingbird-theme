@@ -1,0 +1,26 @@
+{
+  "name": "mockingbird-theme",
+  "displayName": "Mockingbird Theme",
+  "author": {
+    "name": "Yusuf Göksu",
+    "email": "me@yusufgoksu.com",
+    "url": "https://yusufgoksu.com/"
+  },
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mockingbird",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mockingbird-color-theme.json"
+      }
+    ]
+  }
+}
