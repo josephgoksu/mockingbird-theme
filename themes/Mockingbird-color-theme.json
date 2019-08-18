@@ -748,7 +748,7 @@
         "sideBarSectionHeader.foreground": "#c2c2c4",
         "sideBar.border": "#1d1d27",
         "sideBarTitle.foreground": "#c2c2c4",
-        "titleBar.activeBackground": "#ff0000",
+        "titleBar.activeBackground": "#1f1f29",
         "editorCursor.foreground": "#F7FFF7",
         "editorWhitespace.foreground": "#383C44",
         "editor.lineHighlightBackground": "#23262D",
