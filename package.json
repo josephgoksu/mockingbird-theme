@@ -6,10 +6,26 @@
     "email": "me@yusufgoksu.com",
     "url": "https://yusufgoksu.com/"
   },
-  "description": "",
+  "repository": {
+    "url": "https://github.com/y7usuf/mockingbird-theme"
+  },
+  "publisher": "yusufgoksu",
+  "description": "Color",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.37.0"
+  },
+  "license": "Apache License V2.0",
+  "keywords": [
+    "mockingbird",
+    "theme",
+    "dark theme",
+    "sublime theme"
+  ],
+  "icon": "images/mockingbird.png",
+  "galleryBanner": {
+    "color": "#2c3e50",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
@@ -22,5 +38,10 @@
         "path": "./themes/Mockingbird-color-theme.json"
       }
     ]
-  }
+  },
+  "bugs": {
+    "email": "me@yusufgoksu.com",
+    "url": "https://github.com/y7usuf/mockingbird-theme/issues"
+  },
+  "homepage": "https://github.com/y7usuf/mockingbird-theme/blob/master/README.md"
 }
